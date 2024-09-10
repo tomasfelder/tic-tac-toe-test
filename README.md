@@ -18,8 +18,8 @@ Create a functional Tic Tac Toe game using React with TypeScript, HTML canvas, K
 6. Keep track of each player's score.
 
 ## Technical Requirements
-- Use React with TypeScript for the application structure.
-- Implement the game board using HTML canvas with Konva and react-konva libraries.
+- Use `React` with `TypeScript` for the application structure.
+- Implement the game board using HTML canvas with `Konva` and `react-konva` libraries.
 - Ensure proper typing for all components, functions, and variables.
 - Ensure the game is responsive and works on different screen sizes.
 
@@ -36,14 +36,10 @@ Create a functional Tic Tac Toe game using React with TypeScript, HTML canvas, K
 
 ## Deliverables
 - Complete source code in your forked GitHub repository.
-- Update the README file with:
-  - Instructions on how to run the project.
-  - Brief explanation of your implementation choices.
-  - Any challenges faced and how you overcame them.
-  - List of implemented bonus features (if any).
+- Instructions on how to run the project.
 
 ## Time Limit
-You have up to 1 day to complete this exercise, but feel free to submit it earlier if you're satisfied with your work.
+You have up to 2 days to complete this exercise, but feel free to submit it earlier if you're satisfied with your work.
 
 ## Evaluation Criteria
 - Functionality and completeness of the game
@@ -54,34 +50,11 @@ You have up to 1 day to complete this exercise, but feel free to submit it earli
 ## Submission
 1. Ensure all your changes are committed and pushed to your forked repository.
 2. Send us the link to your forked repository.
-3. If you've deployed the game (optional), include the live demo link.
 
 ## Sketch
 Here's a basic sketch of the expected layout:
 
-+-----------------------------------+
-|        Tic Tac Toe Game           |
-+-----------------------------------+
-|   Player X: 0  |  Player O: 0     |
-+-----------------------------------+
-|       |       |       |
-|   X   |   O   |   X   |
-|       |       |       |
-+-------+-------+-------+
-|       |       |       |
-|   O   |   X   |       |
-|       |       |       |
-+-------+-------+-------+
-|       |       |       |
-|       |   O   |   X   |
-|       |       |       |
-+-----------------------------------+
-|   Current Turn: Player O          |
-+-----------------------------------+
-|        [New Game Button]          |
-+-----------------------------------+
-Bonus: Player Banks
-X X X X X     O O O O O
+![image](https://github.com/user-attachments/assets/b42acf21-0114-4935-89d2-adb6f85fe366)
 
 ## Additional Resources and Guidelines
 
